@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dmzone.my.id/sitemap.xml
+Sitemap: https://dmzone.my.id/sitemap.xml
